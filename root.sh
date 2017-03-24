@@ -21,5 +21,10 @@ brew install heroku
 brew install webkit2png
 brew install speedtest_cli
 
+# Useful apps
+brew install caskroom/cask/postico
+brew install caskroom/cask/imageoptim
+brew install caskroom/cask/couleurs
+
 # Remove outdated versions from the cellar.
 brew cleanup
