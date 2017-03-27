@@ -6,7 +6,7 @@ brew upgrade
 
 # Install php71 and php71-pdo-pgsql
 brew install homebrew/php/php71
-brew install homebrew/php71-pdo-pgsql
+brew install homebrew/php/php71-pdo-pgsql
 
 # Install Composer
 brew install composer
